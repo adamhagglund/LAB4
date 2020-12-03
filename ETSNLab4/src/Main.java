@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 
 public class Main {
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) {
 	
 		
 	if(args[0].equals("search") && args.length == 3) {
